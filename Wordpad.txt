@@ -1,4 +1,4 @@
 
 
 
-privet = salam
+privet = salam alekym
